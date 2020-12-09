@@ -1,12 +1,11 @@
-<%@ page language="java" contentType="text/html; charset=EUC-KR"
-    pageEncoding="EUC-KR"%>
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
 <nav>
-<ul>
-<li><a href="index.jsp?section=register_audition">¿Àµð¼Çµî·Ï</a></li>
-<li><a href="index.jsp?section=artist_lookup">Âü°¡ÀÚ¸ñ·ÏÁ¶È¸</a></li>
-<li><a href="index.jsp?section=mento_point_lookup">¸àÅäÁ¡¼öÁ¶È¸</a></li>
-<li><a href="index.jsp?section=register_audition">Âü°¡ÀÚµî¼öÁ¶È¸</a></li>
-<li><a href="index.jsp">È¨À¸·Î</a></li>
-</ul>
-
+	<ul>
+		<li><a href="index.jsp?section=register_audition">ì˜¤ë””ì…˜ë“±ë¡</a></li>
+		<li><a href="index.jsp?section=artist_lookup">ì°¸ê°€ìžëª©ë¡ì¡°íšŒ</a></li>
+		<li><a href="index.jsp?section=mento_point_lookup">ë©˜í† ì ìˆ˜ì¡°íšŒ</a></li>
+		<li><a href="index.jsp?section=artist_lookup_by_rank">ì°¸ê°€ìžë“±ìˆ˜ì¡°íšŒ</a></li>
+		<li><a href="index.jsp">í™ˆìœ¼ë¡œ</a></li>
+	</ul>
 </nav>

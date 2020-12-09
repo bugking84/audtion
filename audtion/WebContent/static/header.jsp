@@ -1,12 +1,5 @@
-<%@ page language="java" contentType="text/html; charset=EUC-KR"
-    pageEncoding="EUC-KR"%>
-<!DOCTYPE html>
-<html>
-<head>
-<meta charset="EUC-KR">
-<title>Insert title here</title>
-</head>
-<body>
-<h3>(°úÁ¤Æò°¡Çü Á¤º¸Ã³¸®»ê¾÷±â»ç) ¿Àµð¼Ç °ü¸® ÇÁ·Î±×·¥ ver2019-06</h3>
-</body>
-</html>
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
+<header>
+<h3>(ê³¼ì •í‰ê°€í˜• ì •ë³´ì²˜ë¦¬ì‚°ì—…ê¸°ì‚¬) ì˜¤ë””ì…˜ ê´€ë¦¬ í”„ë¡œê·¸ëž¨ ver2019-06</h3>      
+</header>
